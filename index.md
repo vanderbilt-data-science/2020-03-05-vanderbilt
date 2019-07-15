@@ -631,7 +631,6 @@ please preview your site before committing, and make sure to run
   {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
-{% comment %}
 <div id="vm">
   <h3>Virtual Machine</h3>
 
@@ -655,4 +654,4 @@ please preview your site before committing, and make sure to run
     </li>
   </ol>
 </div>
-{% endcomment %}
+
