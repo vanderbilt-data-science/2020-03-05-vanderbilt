@@ -616,7 +616,6 @@ please preview your site before committing, and make sure to run
   {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
-{% comment %}
 <div id="vm">
   <h3>Virtual Machine</h3>
 
