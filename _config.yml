@@ -48,8 +48,8 @@ workshop_repo: "https://github.com/vanderbilt-data-science/2019-08-19-vanderbilt
 workshop_site: "https://vanderbilt-data-science.github.io/2019-08-19-vanderbilt/"
 
 # Surveys.
-swc_pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
-swc_post_survey: "https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id="
+swc_pre_survey: "https://www.surveymonkey.com/results/SM-VGCRVXNT7/"
+swc_post_survey: "https://www.surveymonkey.com/results/SM-R5BNVXNT7/"
 training_post_survey: "https://www.surveymonkey.com/r/post-instructor-training"
 dc_pre_survey: "https://www.surveymonkey.com/r/dcpreworkshopassessment?workshop_id="
 dc_post_survey: "https://www.surveymonkey.com/r/dcpostworkshopassessment?workshop_id="
